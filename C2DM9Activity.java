@@ -47,10 +47,13 @@ import com.loc.util.RESTUtil;
 public class C2DM9Activity extends Activity implements AppLiterals {
 	
 	Button btnRegisterUser;
+	Button tempx;
+	
 	EditText editxt1;
 	EditText fName;
 	EditText lName;
-	EditText mobileNo;
+	EditText1 Xxx;
+	
 	EditText address;
 	
 	List<NameValuePair> nameValuePairs = new ArrayList<NameValuePair>(1);
