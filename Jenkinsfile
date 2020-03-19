@@ -1,4 +1,5 @@
 #!/usr/bin/groovy
+#some changes
 
 @Library('github.com/fabric8io/fabric8-pipeline-library@master')
 def canaryVersion = "1.0.${env.BUILD_NUMBER}"
